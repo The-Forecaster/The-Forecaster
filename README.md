@@ -7,8 +7,8 @@ If I'm not coding then I'll probably be making music or exploring the wilderness
 Cheers If you're reading this!
 
 <a href="https://github.com/The-Forecaster/github-config">
-<img src="https://github.com/The-Forecaster/github-config/blob/main/generated/overview.svg#gh-dark-mode-only") />
-<img src="https://github.com/The-Forecaster/github-config/blob/main/generated/languages.svg#gh-dark-mode-only") />
+<img src="https://github.com/The-Forecaster/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only") />
+<img src="https://github.com/The-Forecaster/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only") />
 </a>
 <!--The graphics are provided by https://github.com/jstrieb/github-stats so pls go check him out and credit him if you use this-->
 
