@@ -6,7 +6,7 @@ If I'm not coding then I'll probably be making music or exploring the wilderness
   
 Cheers If you're reading this!
 
-<a href="https://github.com/The-Forecaster/github-config">
+<a href="https://github.com/The-Forecaster/github-stats">
 <img src="https://github.com/The-Forecaster/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only") />
 <img src="https://github.com/The-Forecaster/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only") />
 </a>
