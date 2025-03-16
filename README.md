@@ -4,8 +4,8 @@ I am an amateur coder and I mostly do it for fun.
 I love coding and learning new things so don't be afraid to contact me if you wanna collaborate on something.
 If I'm not coding then I'll probably be making music or exploring the wilderness around my home.
 
-![](https://raw.githubusercontent.com/The-Forecaster/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/The-Forecaster/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/The-Forecaster/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/The-Forecaster/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!--The graphics are provided by https://github.com/jstrieb/github-stats so pls go check him out and credit him if you use this-->
 
 ## More about me
